@@ -1,3 +1,4 @@
 ## Snippets and comments from learning about React
 
-## npm install create-react-app
+### Install
+```npm install create-react-app```
